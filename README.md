@@ -1,2 +1,2 @@
-# simple-login-page
-login page
+# static webpage
+static webpage
